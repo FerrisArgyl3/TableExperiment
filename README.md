@@ -7,7 +7,8 @@ but heyyyyyy it works
 and I'm happy :)
 
 ps
-the program only works for up to 12 random variable
+
+the program only works for up to 12 random variables
 its probably because I should have used a bigger int or whatever the fuck that means
 
 
