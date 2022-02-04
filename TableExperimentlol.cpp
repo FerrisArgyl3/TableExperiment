@@ -96,3 +96,5 @@ int main()
 //I got shit to do
 //I also found out that this program only supports up to 12 random variables for some reason
 //but fuck it I'm gonna upload this to github lol
+//Note: (2/4/2022)
+//destroyed Table1 just cuz lmao
