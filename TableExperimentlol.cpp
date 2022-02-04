@@ -75,13 +75,20 @@ public:
             std::cout << "\t";
         }
     }
+    
+    ~square() {
+        std::cout << "\n Goodbye!";
+    }
+
 };
 
 
 int main()
 {
 
-    square Table1;
+    square* Table1;
+    Table1 = new square;
+    delete Table1;
 
 }
 //Note: (8/15/2021)
